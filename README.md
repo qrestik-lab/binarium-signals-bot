@@ -66,5 +66,5 @@
 
 ```html
 <p align="center">
-  <img src="YOUR_SCREENSHOT_URL" alt="Gromov Trading Bot" width="700">
+  <img src="https://github.com/user-attachments/assets/8ae353fc-43de-47b9-9440-7055470b9a84" alt="Gromov Trading Bot" width="700">
 </p>
